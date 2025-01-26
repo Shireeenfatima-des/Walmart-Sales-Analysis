@@ -30,10 +30,10 @@ This will help use generate some new columns from existing ones.
 
 •	Add a new column named time_of_day to give insight of sales in the Morning, Afternoon, Evening and Night. This will help answer the question on which part of the day most sales are made.
 
-•	Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). 
+•	Add a new column named Day that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). 
 This will help answer the question on which week of the day each branch is busiest.
 
-•	Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
+•	Add a new column named Month that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
 ### 2. Exploratory Data Analysis (EDA)
 
